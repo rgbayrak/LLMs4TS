@@ -2,7 +2,7 @@
 
 Awesome resources focus on the application of cutting-edge AI technologies for time-series analysis (**AI4TS **). They delve into advanced topics such as self-supervised learning (**SSL**), Graph Neural Networks for Time Series (**GNN4TS**), Large Language Models for Time Series (**LLM4TS**), **Diffusion** models, Mixture-of-Experts (**MoE**) architectures and **Mamba** models, Kolmogorov Arnold Networks (**KAN**) among others. These resources span various domains, including healthcare, finance, and traffic, offering a comprehensive view of the field. In addition, they feature top-notch tutorials, courses, and workshops from prestigious conferences, hosted by globally renowned scholars and research teams. Whether you're a professional, data scientist, or researcher, these tools and techniques can significantly enhance your time-series data analysis capabilities, providing a clear roadmap for your studies.
 
-#### LLM4TS
+#### TS Tasks
 
 * Forecasting
   * PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting [arxiv 20 Sep 2022](https://arxiv.org/abs/2210.08964) [PISA)](https://github.com/HaoUNSW/PISA)
@@ -53,14 +53,13 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * Are Language Models Actually Useful for Time Series Forecasting? [22 Jun 2024](https://arxiv.org/pdf/2406.16964) [TS_Models](https://github.com/BennyTMT/TS_Models)
 
 
-
 #### Multimodal large models include TS
 
 * Meta-Transformer: A Unified Framework for Multimodal Learning [20 Jul 2023](https://arxiv.org/abs/2307.10802) [Meta-Transformer](https://kxgong.github.io/meta_transformer/)
 * UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video,Point Cloud, Time-Series and Image Recognition [27 Nov 2023](https://arxiv.org/abs/2311.15599) [UniRepLKNet](https://invictus717.github.io/UniRepLKNet/)
 * ViT-Lens-2: Gateway to Omni-modal Intelligence [27 Nov 2023](https://arxiv.org/abs/2311.16081) [ViT-Lens-2](https://github.com/TencentARC/ViT-Lens)
 
-#### Patch && Tokenizers methods
+#### Patch & Tokenizers methods
 
 * Patches Are All You Need? [*ICLR 24 Jan 2022*](https://arxiv.org/abs/2201.09792)  [convmixer](https://github.com/locuslab/convmixer)
 * A Time Series is Worth 64 Words: Long-term Forecasting with Transformers [ICLR 2023 *27 Nov 2022*](https://arxiv.org/abs/2211.14730) [PatchTST](https://github.com/yuqinie98/PatchTST)
@@ -73,7 +72,6 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * From Similarity to Superiority: Channel Clustering for Time Series Forecasting [31 Mar 2024](https://arxiv.org/abs/2404.01340v1)
 * TOTEM: TOkenized Time series EMbeddings for General Time Series Analysis [26 Feb 2024](https://arxiv.org/abs/2402.16412) [TOTEM](https://github.com/SaberaTalukder/TOTEM)
 * Medformer: A Multi-Granularity Patching Transformer for Medical Time-Series Classification [arxiv24 May 2024](https://arxiv.org/abs/2405.19363) [DL4mHealth/Medformer](https://github.com/DL4mHealth/Medformer)
-* 
 
 #### GNN
 
@@ -83,6 +81,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 #### MLPer
 
 * TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting [KDD2023](https://arxiv.org/abs/2306.09364)[PatchTSMixer](https://github.com/IBM/tsfm/blob/main/notebooks/hfdemo/patch_tsmixer_getting_started.ipynb)
+* TSMixer: An All-MLP Architecture for Time Series Forecasting [Google Research 2024]([https://openreview.net/forum?id=wbpxTuXgm0](https://arxiv.org/abs/2303.06053))
 * A Multi-Scale Decomposition MLP-Mixer for Time Series Analysis [VLDB2024](https://arxiv.org/abs/2310.11959) [zshhans/MSD-Mixer](https://github.com/zshhans/MSD-Mixer)
 * Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot
   Forecasting of Multivariate Time Series [8 Jan 2024](https://arxiv.org/abs/2401.03955)
@@ -169,7 +168,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 
 #### Multimodal TS
 
-* Biosignal
+* Biosignal (EEG/ECG)
   * Frozen Language Model Helps ECG Zero-Shot Learning [22 Mar 2023](https://arxiv.org/abs/2303.12311)
   * Learning Transferable Time Series Classifier with Cross-Domain
     Pre-training from Language Model [19 Mar 2024](https://arxiv.org/abs/2403.12372) [CrossTimeNet](https://github.com/Mingyue-Cheng/CrossTimeNet)
