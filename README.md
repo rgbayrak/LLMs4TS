@@ -122,7 +122,6 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 #### Multiple instance learning
 
 * TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning [ICML2024](https://arxiv.org/abs/2405.03140) [xiwenc1/TimeMIL](https://github.com/xiwenc1/TimeMIL)
-* 
 
 #### NeXt  (Classic networks make a comeback)
 
@@ -161,7 +160,6 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   Human Action Recognition [14 Apr 2024](https://arxiv.org/abs/2404.15349)
 * Unveiling Thoughts: A Review of Advancements in EEG Brain Signal Decoding into Text [26 Apr 2024](https://arxiv.org/abs/2405.00726)
 * AI for Biomedicine in the Era of Large Language Models [23 Mar 2024](https://arxiv.org/abs/2403.15673)
-* 
 
 ####  Foundation for other domains
 
@@ -274,7 +272,6 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 #### Workshop
 
 * [MulTiSA 2024 | MultiTISA 2024](http://multisa2024.org//)  *in conjunction with ICDE'24*
-* 
 
 #### Project
 
@@ -313,8 +310,6 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * [Westlake-AI/openmixup: CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark (github.com)](https://github.com/Westlake-AI/openmixup)
 * [open-mmlab/mmselfsup: OpenMMLab Self-Supervised Learning Toolbox and Benchmark (github.com)](https://github.com/open-mmlab/mmselfsup)
 * [lightly-ai/lightly: A python library for self-supervised learning on images. (github.com)](https://github.com/lightly-ai/lightly)
-* 
-
 
 #### Blog list
 
@@ -333,14 +328,9 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * [国内外高校和企业里时空数据挖掘相关的团队有哪些？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/617528629/answer/3177883285)
 * [Xiyuan Zhang | Home](https://xiyuanzh.github.io/)
 * [Mingyue Cheng's HomePage (mingyue-cheng.github.io)](https://mingyue-cheng.github.io/)
-* 
 
 ### Course
 
 * [Time Series Analysis from nan jing university](https://www.lamda.nju.edu.cn/yehj/TSA2023/) 
 * [Time-Series Analysis from intel company ](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/course-time-series-analysis.html)
 * [北京大学数学科学学院李东风2024年春季学期课程主页 (pku.edu.cn)](https://www.math.pku.edu.cn/teachers/lidf/course/)
-
-#### Others
-
-* 
